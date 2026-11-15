@@ -75,7 +75,7 @@ Saved files used by the application:
 ## Project Files
 
 - `final(2).py` - Main Streamlit web app
-- `FraudDetection(1).ipynb` - Jupyter notebook containing preprocessing, training, and evaluation
+- `FraudDetection (1).ipynb` - Jupyter notebook containing preprocessing, training, and evaluation
 - `fraud_model.pkl` - Trained fraud detection model
 - `scaler.pkl` - Saved scaler
 - `feature_columns.pkl` - Saved feature column names
@@ -89,8 +89,8 @@ Saved files used by the application:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yashica-creator/Credit-card-Fraud-detection-Project.git
-cd Credit-card-Fraud-detection-Project
+git clone https://github.com/trishla1234/Credit-Card-Fraud-Detection-Project.git
+cd Credit-Card-Fraud-Detection-Project
 ```
 
 ### 2. Install dependencies
@@ -166,12 +166,11 @@ This project demonstrates:
 ## Author
 
 **Yashica**  
-BTech Student |GDTUW | Enrolllment No. 22301172025
+BTech Student | IGDTUW 
 
 
 **Trishla**  
-BTech Student | IGDTUW | Enrolllment No. 21201172025
-
+BTech Student | IGDTUW 
 
 ## License
 
